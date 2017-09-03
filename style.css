@@ -1,7 +1,6 @@
 body {
 background-color: #Fff;
 color: #5b5b5b;
-font-family: 'Merriweather', serif;
 }
 
 /* Text */
@@ -142,15 +141,21 @@ li::before {
 /* Responsive */
 @media screen and (min-width: 480px) {
    .containerone {
-
 width: 100%;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-left: 20px;
+padding-right: 0px;
 
 }
 .containertwo {
 
 width: 100%;
-
-} 
+padding-top: 50px;
+padding-bottom: 50px;
+padding-left: 20px;
+padding-right: 0px;
+}
 
 p {
   width: 100%;
