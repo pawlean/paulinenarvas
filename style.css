@@ -12,7 +12,12 @@ h1.title {
 margin: 0 auto;
   color: #000;
 }
-
+h2 {
+	font-size: 2.0rem;
+   font-family: 'Merriweather', serif;
+    font-weight: 300;
+  color: #000;
+}
 
 p {
   font-family: 'Roboto';
@@ -123,9 +128,8 @@ ul {
   list-style: none;
   font-family: 'Roboto';
   font-weight: 100;
-  text-align: left;
   font-size: 1.2em;
-
+  text-align: left;
 }
 
 li {
@@ -136,6 +140,26 @@ li {
 li::before {
   content: "• ";
   color: #d45661; /* or whatever color you prefer */
+}
+.thumb {
+	display: inline-block;
+	width: 250px;
+	height: 250px;
+-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+      font-family: 'Roboto';
+  font-weight: 100;
+  font-size: 1em;
+}
+
+.thumb img {
+	border: 1px solid #d4d4d4;
+	border-radius: 5%;
+}
+
+.thumb:hover {
+-webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+
 }
 
 /* Responsive */
