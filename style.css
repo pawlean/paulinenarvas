@@ -17,7 +17,7 @@ margin: 0 auto;
 p {
   font-family: 'Roboto';
   font-weight: 100;
-  text-align: left;
+  text-align: justify;
   font-size: 1.2em;
   width: 80%;
   margin: 0 auto;
@@ -138,10 +138,9 @@ li::before {
   color: #d45661; /* or whatever color you prefer */
 }
 
-
 /* Responsive */
-@media screen and (min-width: 480px) {
-   .containerone {
+@media screen and (max-width: 480px) {
+.containerone {
 width: 100%;
 padding-top: 50px;
 padding-bottom: 50px;
@@ -150,7 +149,6 @@ padding-right: 0px;
 
 }
 .containertwo {
-
 width: 100%;
 padding-top: 50px;
 padding-bottom: 50px;
@@ -158,10 +156,14 @@ padding-left: 20px;
 padding-right: 0px;
 }
 
+ul {
+padding-left: 0px;
+padding-right: 0px;
+}
+
 p {
   width: 100%;
   padding: 0px;
-
 }
 
 .row {
