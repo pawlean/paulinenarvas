@@ -192,6 +192,14 @@ li::before {
 	width: 600px;
 }
 
+.button-view {
+	border: 1px solid #d4d4d4;
+	border-radius: 2%;
+	background-color: white;
+	padding: 10px;
+	font-size: 1.2em;
+}
+
 /* Responsive */
 @media screen and (max-width: 480px) {
 .containerone {
