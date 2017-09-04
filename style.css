@@ -33,6 +33,16 @@ p.main {
   text-align: center;
   font-size: 1.5em;
 }
+p.mainthree {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+
+p.maintwo {
+  text-align: center;
+  font-size: 1em;
+}
 
 /* Sections */
 
