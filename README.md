@@ -1,2 +1,4 @@
 # paulinenarvas
-For: http://paulinenarvas.com/
+Doing the thing for: http://paulinenarvas.com/
+
+Young paw is very happy, happy + proud.
