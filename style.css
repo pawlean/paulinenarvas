@@ -232,6 +232,10 @@ p {
 p.main {
   font-size: 1.4em;
 }
+p.mainthree {
+  text-align: center;
+  font-size: 1.1em;
+}
 
 .row {
   width: 100%;
