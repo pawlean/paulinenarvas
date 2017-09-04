@@ -58,6 +58,16 @@ background-color: #f2f2f2;
 transition: all 0.2s ease;
 }
 
+footer {
+	background-color: #f2f2f2;
+width: 100%;
+margin: 0 auto;
+padding: 20px;
+text-align: center;
+  font-size: 0.9em;
+    font-family: 'Roboto';
+  font-weight: 100;
+}
 
 .author{
 height: auto;
@@ -162,6 +172,16 @@ li::before {
 
 }
 
+.other {
+	border: 1px solid #d4d4d4;
+	border-radius: 2%;
+	background-color: white;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-right: 20px;
+	width: 600px;
+}
+
 /* Responsive */
 @media screen and (max-width: 480px) {
 .containerone {
@@ -197,5 +217,11 @@ p {
 .social {
   padding: 0px;
 }
+
+.other {
+
+	width: 100%;
+}
+
 }
 
