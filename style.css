@@ -68,6 +68,11 @@ background-color: #f2f2f2;
 transition: all 0.2s ease;
 }
 
+.col-centered{
+width: 75%;
+margin: 0 auto;
+}
+
 footer {
 	background-color: #f2f2f2;
 width: 100%;
