@@ -149,23 +149,23 @@ margin: 0 auto;
 
 
 ul {
-  text-align: left;
-  list-style: none;
+text-align: center;  list-style: none;
   font-family: 'Roboto';
   font-weight: 100;
   font-size: 1.2em;
-  text-align: left;
+ 
 }
 
 li {
-  padding-bottom: 10px;
+  padding-bottom: 25px;
+  text-align: center;
 }
 
 
-li::before {
+/* li::before {
   content: "• ";
   color: #d45661; /* or whatever color you prefer */
-}
+
 .thumb {
 	display: inline-block;
 	width: 250px;
