@@ -160,6 +160,11 @@ li {
   text-align: center;
 }
 
+.other {
+  padding-bottom: 20px;
+  padding-left: 20px;
+  width: 70%;
+}
 
 /* li::before {
   content: "• ";
