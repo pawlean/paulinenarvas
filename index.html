@@ -405,7 +405,44 @@ I often encourage students to not let their degree restrict them to what they ca
 <a href="http://pawlean.com" target="_blank">Blog</a> </p>
 
 
+<!-- Start of Async Revoice Code -->
+<script type="text/javascript">
+window.revoiceSettings = {
+    handler: 'paulienuh',
+    page_id: '280917122350731',
+    position: 'left',
+    horizontalPadding: '20',
+    verticalPadding: '20',
+    color: '#a47da4',
+    created_at: '1514999395' // Signup date as a Unix timestamp
+};
+(function() {
+    var revoice = window.Revoice;
+    if (typeof revoice === "function") {
+        revoice('init');
+        revoice('update', revoiceSettings);
+    } else {
 
+        function load_revoice_script() {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.async = true;
+            script.src = 'https://www.revoice.me/newrevoice/js/revoice-frame.js';
+            var scriptContent = document.getElementsByTagName('script')[0];
+            scriptContent.parentNode.insertBefore(script, scriptContent);
+        }
+
+        if (window.attachEvent){ 
+            window.attachEvent('onload', load_revoice_script); 
+        } 
+        else{ 
+            window.addEventListener('load', load_revoice_script, false); 
+        }
+    }
+})()
+</script>
+<!-- End of Async Revoice Code -->
+	
 
 </div></div></div>
 
