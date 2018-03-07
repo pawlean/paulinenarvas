@@ -21,7 +21,7 @@ h2 {
 }
 
 p {
-  
+
   font-family: 'Roboto';
   font-weight: 100;
   text-align: justify;
@@ -138,7 +138,7 @@ height: auto;
 }
 
 .twitter-tweet {
-background: #F8F8F8; 
+background: #F8F8F8;
 padding:20px;
 color: black;
 border: 0px;
@@ -150,11 +150,12 @@ margin: 0 auto;
 
 
 ul {
-text-align: center;  list-style: none;
+text-align: center;
+list-style: none;
   font-family: 'Roboto';
   font-weight: 100;
   font-size: 1.2em;
- 
+
 }
 
 li {
@@ -174,13 +175,14 @@ li {
 
 .thumb {
 	display: inline-block;
-	width: 250px;
-	height: 250px;
+	width: 150px;
+	height: 150px;
 -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
       font-family: 'Roboto';
   font-weight: 100;
   font-size: 1em;
+
 }
 
 .thumb img {
@@ -263,4 +265,3 @@ p.mainthree {
 }
 
 }
-
