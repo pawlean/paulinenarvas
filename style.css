@@ -132,6 +132,14 @@ color: black;
 
 /* Other styling  */
 
+.card {
+padding-top: 40px;
+background: #f2f2f2;
+border-radius: 2%;
+padding-right: 40px;
+}
+
+
 img {
 max-width: 100%;
 height: auto;
