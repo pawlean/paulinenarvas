@@ -1,16 +1,13 @@
 body {
   background-color: #Fff;
   color: #5b5b5b;
-  font-family: din-condensed, sans-serif;
-  font-style: light;
 }
 
 /* Text */
 
 h1.title {
-  font-size: 2.8rem;
-  font-family: din-condensed, sans-serif;
-  font-style: light;
+  font-size: 3rem;
+  font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   margin: 0 auto;
   color: #000;
@@ -18,7 +15,7 @@ h1.title {
 
 h2 {
   font-size: 2.0rem;
-  font-family: din-condensed, sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-style: light;
   font-weight: 200;
   color: #000;
@@ -26,8 +23,7 @@ h2 {
 }
 
 p {
-  font-family: din-condensed, sans-serif;
-  font-weight: 200;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   text-align: justify;
   font-size: 1.2em;
