@@ -107,6 +107,7 @@ footer {
 /* Links */
 a {
   color: #a455a4;
+  border-bottom: 1px dotted black;
 }
 a:hover {
   text-decoration:none;
