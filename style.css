@@ -50,6 +50,16 @@ p.maintwo {
 }
 
 /* Sections */
+.nav-head {
+  width: 100%;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #fff;
+  text-align: left;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
 .containerone {
   width: 100%;
   margin: 0 auto;
@@ -127,7 +137,21 @@ a:hover {
 }
 
 /* Other styling  */
-
+.small {
+  font-size: 1em;
+  text-align: center;
+}
+p.nav-button a {
+  background: #a47da4;
+  border-radius: 5%;
+  color: white;
+  padding: 5px;
+  border-bottom: none;
+}
+p.nav-button a:hover {
+  color: white;
+  background: #836883;
+}
 .card {
   padding-top: 40px;
   background: #f2f2f2;
