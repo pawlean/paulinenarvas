@@ -60,6 +60,16 @@ p.maintwo {
   -moz-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
+.nav-footer {
+  width: 100%;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #fff;
+  text-align: center;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
 .containerone {
   width: 100%;
   margin: 0 auto;
