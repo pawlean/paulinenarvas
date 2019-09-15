@@ -2,7 +2,6 @@ body {
   background-color: #Fff;
   color: #5b5b5b;
   font-family: 'Roboto', sans-serif;
-
 }
 
 /* Text */
@@ -14,7 +13,6 @@ h1.title {
   margin: 0 auto;
   color: #000;
 }
-
 h2 {
   font-size: 2.0rem;
   font-family: 'Open Sans Condensed', sans-serif;
@@ -23,7 +21,6 @@ h2 {
   color: #000;
   text-align: center;
 }
-
 p {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -33,17 +30,14 @@ p {
   margin: 0 auto;
   margin-bottom: 10px;
 }
-
 p.main {
   text-align: center;
   font-size: 1.5em;
 }
-
 p.mainthree {
   text-align: center;
   font-size: 1.2em;
 }
-
 p.maintwo {
   text-align: center;
   font-size: 1em;
@@ -107,7 +101,6 @@ p.maintwo {
   width: 75%;
   margin: 0 auto;
 }
-
 footer {
   background-color: #f2f2f2;
   width: 100%;
@@ -157,7 +150,6 @@ a:hover {
   text-decoration: none;
   border-bottom:  0px;
 }
-
 /* Other styling  */
 .small {
   font-size: 1em;
@@ -166,12 +158,12 @@ a:hover {
 p.nav-button a {
   background: #a47da4;
   border-radius: 5px;
-  color: white;
+  color: #ffffff;
   padding: 10px;
   border-bottom: none;
 }
 p.nav-button a:hover {
-  color: white;
+  color: #ffffff;
   background: #836883;
 }
 .card {
@@ -196,7 +188,6 @@ img {
   margin-left: 30px;
   margin: 0 auto;
 }
-
 .work {
   margin-left: 100px;
   margin-right: 100px;
@@ -214,8 +205,6 @@ li {
   padding-bottom: 15px;
   text-align: center;
 }
-
-
 .other {
   padding-bottom: 20px;
   padding-left: 20px;
@@ -248,7 +237,7 @@ li {
 .other {
 	border: 1px solid #d4d4d4;
 	border-radius: 2%;
-	background-color: white;
+	background-color: #ffffff;
 	margin: 0 auto;
 	padding-top: 20px;
 	padding-right: 20px;
@@ -272,20 +261,20 @@ li {
 }
 .skills:hover {
 	background-color: #a47da4;
-  color: white;
+  color: #ffffff;
 }
 .button-view {
 	border-radius: 4px;
 	background-color: #a47da4;
 	padding: 15px;
-  color: white;
+  color: #ffffff;
 	font-size: 1.2em;
 }
 .button-view:hover {
   text-decoration:none;
   background-color: #836883;
   border-bottom: 0px;
-  color: white;
+  color: #ffffff;
 }
 #up {
   display: none;
@@ -297,7 +286,7 @@ li {
   border: none;
   outline: none;
   background-color: #a47da4;
-  color: white;
+  color: #ffffff;
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
@@ -326,37 +315,36 @@ li {
     padding-left: 0px;
     padding-right: 0px;
     font-size: 1.1em;
-    }
+  }
   p {
-  width: 100%;
-  padding: 0px;
-  font-size: 1.1em;
-    }
-    p.main {
-      font-size: 1.4em;
-    }
-    p.mainthree {
-      text-align: center;
-      font-size: 1.1em;
-    }
-    .row {
-      width: 100%;
-    }
-    .social {
-      padding: 0px;
-    }
-    .other {
-      padding-bottom: 20px;
-      padding-left: 20px;
-      width: 100%;
-    }
-
-    .container-speak > .row{
-      margin-right: 0px !important;
-      margin-left: 0px !important;
-    }
-    .skill-list {
-      width: 100%;
-    }
+    width: 100%;
+    padding: 0px;
+    font-size: 1.1em;
+  }
+  p.main {
+    font-size: 1.4em;
+  }
+  p.mainthree {
+    text-align: center;
+    font-size: 1.1em;
+  }
+  .row {
+    width: 100%;
+  }
+  .social {
+    padding: 0px;
+  }
+  .other {
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 100%;
+  }
+  .container-speak > .row{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+  }
+  .skill-list {
+    width: 100%;
+  }
 
   }
