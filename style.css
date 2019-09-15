@@ -166,9 +166,9 @@ a:hover {
 }
 p.nav-button a {
   background: #a47da4;
-  border-radius: 5%;
+  border-radius: 5px;
   color: white;
-  padding: 5px;
+  padding: 10px;
   border-bottom: none;
 }
 p.nav-button a:hover {
