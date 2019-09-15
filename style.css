@@ -246,6 +246,27 @@ li {
 	padding-top: 20px;
 	padding-right: 20px;
 }
+.skill-list {
+  text-align: center; 
+  margin-bottom: 30px; 
+  margin-top: 30px; 
+  list-style: none; 
+  width: 60%; 
+  margin: 0 auto;
+}
+.skills {
+	border-radius: 5px;
+	border: 1px solid #a47da4;
+	padding: 10px;
+  color: #a47da4;
+  font-size: 1em;
+  display: inline-block;
+  margin: 10px;
+}
+.skills:hover {
+	background-color: #a47da4;
+  color: white;
+}
 .button-view {
 	border-radius: 4px;
 	background-color: #a47da4;
@@ -253,7 +274,6 @@ li {
   color: white;
 	font-size: 1.2em;
 }
-
 .button-view:hover {
   text-decoration:none;
   background-color: #836883;
@@ -327,6 +347,9 @@ li {
     .container-speak > .row{
       margin-right: 0px !important;
       margin-left: 0px !important;
+    }
+    .skill-list {
+      width: 100%;
     }
 
   }
