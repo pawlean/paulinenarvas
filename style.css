@@ -237,6 +237,14 @@ li {
 .thumb:hover {
 -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
 }
+.bw {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+}
+.bw:hover {
+  filter: grayscale(0%);
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+}
 .other {
 	border: 1px solid #d4d4d4;
 	border-radius: 2%;
