@@ -1,31 +1,33 @@
 body {
   background-color: #Fff;
   color: #5b5b5b;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Merriweather', serif;
 }
 
 /* Text */
 
 h1.title {
   font-size: 3rem;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: bold;
+  font-family: 'Raleway', serif;
   margin: 0 auto;
   color: #000;
+  font-weight: 300;
 }
 h2 {
   font-size: 2.0rem;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Raleway', serif;
   font-style: light;
   font-weight: 200;
   color: #000;
   text-align: center;
 }
 p {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
+  font-family: 'Merriweather', serif;
+  color: #5b5b5b;
+  font-weight: 300;
+  font-size: 	1em;  
+  line-height: 1.5em;
   text-align: justify;
-  font-size: 1.2em;
   width: 80%;
   margin: 0 auto;
   margin-bottom: 10px;
