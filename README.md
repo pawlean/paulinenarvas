@@ -1,9 +1,9 @@
 # PaulineNarvas.com
 
-I always find it hard to explain who I am, what I do and what I want to do so let me show you...
+My portfolio is finally here - showcasing everything that I do, all my projects and what others are saying. Developed using HTML, CSS, Javascript, using Bootstrap that is *highly* customised.
+
+# Check it out -
 
 ✨ https://PaulineNarvas.com ✨
 
-Designed and developed using HTML, CSS, Javascript and Bootstrap, presenting my online CV/portfolio/website!
-
-Any feedback appreciated 😊
+Feel free to send me any feedback or thoughts - always appreciated 😊
