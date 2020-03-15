@@ -124,6 +124,9 @@ footer {
   margin: 0 auto;
   border: 10px solid #a47da4;
 }
+.blog, .images {
+  width: 50%;
+}
 .author:hover{
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
