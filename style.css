@@ -22,11 +22,15 @@ h2 {
   color: #000;
   text-align: center;
 }
+h3 {
+  font-family: 'Merriweather', serif;
+  font-size: 	1.4em;  
+}
 p {
   font-family: 'Merriweather', serif;
   color: #5b5b5b;
   font-weight: 300;
-  font-size: 	1em;  
+  font-size: 	1.2em;  
   line-height: 1.5em;
   text-align: justify;
   width: 80%;
