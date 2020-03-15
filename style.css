@@ -12,6 +12,7 @@ h1.title {
   margin: 0 auto;
   color: #000;
   font-weight: 300;
+  padding-top: 30px;
 }
 h2 {
   font-size: 2.0rem;
@@ -119,10 +120,9 @@ footer {
   border-radius: 50%;
   filter: none;
   -webkit-filter: grayscale(0%);
-  margin-bottom: 30px;
   width: auto;
   margin: 0 auto;
-  border: 2px solid #a47da4;
+  border: 10px solid #a47da4;
 }
 .author:hover{
   -webkit-filter: grayscale(100%);
