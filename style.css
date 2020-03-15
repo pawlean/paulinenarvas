@@ -119,11 +119,10 @@ footer {
   border-radius: 50%;
   filter: none;
   -webkit-filter: grayscale(0%);
-  padding-bottom: 20px;
+  margin-bottom: 30px;
   width: auto;
-  margin: 10px;
   margin: 0 auto;
-  border: 1px solid #a47da4;
+  border: 2px solid #a47da4;
 }
 .author:hover{
   -webkit-filter: grayscale(100%);
