@@ -135,6 +135,10 @@ footer {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
+.videoWrapper{
+  width: 50%;
+  margin: 0 auto;
+}
 /* Links */
 a {
   color: #a455a4;
@@ -301,6 +305,9 @@ li {
 
 /* Responsive */
 @media screen and (max-width: 480px) {
+  .images, .blog, .videoWrapper {
+    width: 100%;
+  }
   .containerone {
     width: 100%;
     padding-top: 50px;
