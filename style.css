@@ -1,14 +1,15 @@
 body {
   background-color: #fff;
   color: #5b5b5b;
-  font-family: "Merriweather", serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
 }
 
 /* Text */
 
 h1.title {
   font-size: 3rem;
-  font-family: "Raleway", serif;
+  font-family: "Raleway", sans-serif;
   margin: 0 auto;
   color: #000;
   font-weight: 300;
@@ -16,7 +17,7 @@ h1.title {
 }
 h2 {
   font-size: 2rem;
-  font-family: "Raleway", serif;
+  font-family: "Raleway", sans-serif;
   font-style: light;
   font-weight: bold;
   text-transform: uppercase;
