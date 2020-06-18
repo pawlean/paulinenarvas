@@ -4,6 +4,6 @@ My portfolio is finally here - showcasing everything that I do, all my projects 
 
 # Check it out
 
-✨ https://PaulineNarvas.com ✨
+✨ https://pawlean.github.io/paulinenarvas/ ✨
 
 Feel free to send me any feedback or thoughts - always appreciated 😊
